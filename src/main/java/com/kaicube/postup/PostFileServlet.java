@@ -1,4 +1,5 @@
-package com.osl.postup;
+package com.kaicube.postup;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

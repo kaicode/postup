@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>PostFileServlet</servlet-name>
-        <servlet-class>com.osl.postup.PostFileServlet</servlet-class>
+        <servlet-class>com.kaicube.postup.PostFileServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>
